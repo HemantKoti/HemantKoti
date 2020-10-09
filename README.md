@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I am a graduate student at the University of Buffalo, pursuing Masters in Computer Science and Engineering. Previously, I worked in the tech industry for over 3 years on several enterprise-grade products ranging across different teams ([ClearPath ePortal](https://www.unisys.com/offerings/clearpath-forward/brochure/the-unisys-clearpath-forward-eportal-for-mcp-and-os-2200-environments-id-544), [Stealth](https://stealthsecurity.unisys.com/products-services/)). <br>
+I am a graduate student at the University of Buffalo, pursuing Masters in Computer Science and Engineering. Previously, I worked in the tech industry for over 3 years ([Unisys](https://www.unisys.com/)) on several enterprise-grade products ranging across different teams ([ClearPath ePortal](https://www.unisys.com/offerings/clearpath-forward/brochure/the-unisys-clearpath-forward-eportal-for-mcp-and-os-2200-environments-id-544), [Stealth](https://stealthsecurity.unisys.com/products-services/)). <br>
 
 I possess extensive knowledge of the software development cycle as well as proficiency in several programming languages including but not limited to - C#.NET, Asp.NET Core MVC, Web API, JavaScript, WPF, Open API, Angular. <br>
 
