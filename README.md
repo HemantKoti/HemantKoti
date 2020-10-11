@@ -13,4 +13,5 @@ I am proactively seeking full-time positions starting May 2021.
 - 👯 I’m looking to collaborate on anything fascinating :)
 - 🤔 I’m looking for help with full-time job opportunities.
 - 💬 Ask me about anything :) 
-- 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/hemantkoti/)
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hemantkoti/)](https://www.linkedin.com/in/hemantkoti/) [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shivanshsrivastava2000@gmail.com)](mailto:kotihemant@gmail.com)
