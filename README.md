@@ -8,7 +8,7 @@ Above all, I’m a highly enthusiastic and conscientious programmer who loves to
 
 I am proactively seeking full-time positions starting May 2021.
 
-- 🔭 I’m currently working on [WebAssembly](https://github.com/HemantKoti/CSE-410-510.git), [Visual Welcome Center](https://github.com/HemantKoti/Visual-Welcome-Center.git)
+- 🔭 I’m currently working on [WebAssembly](https://github.com/HemantKoti/CSE-410-510.git), [Visual Welcome Center](https://github.com/HemantKoti/Visual-Welcome-Center.git), [OpenMined](https://github.com/OpenMined/SyferText.git)
 - 🌱 I’m currently learning Deep Learning with a keen interest in applications of Autoencoders and GANs
 - 👯 I’m looking to collaborate on anything fascinating :)
 - 🤔 I’m looking for help with full-time job opportunities.
