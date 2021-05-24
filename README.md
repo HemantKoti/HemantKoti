@@ -14,16 +14,17 @@ I am proactively seeking full-time positions starting June 2021.
 - 🤔 I’m looking for help with full-time job opportunities.
 - 💬 Ask me about anything :) 
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hemantkoti/)](https://www.linkedin.com/in/hemantkoti/) [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kotihemant@gmail.com)](mailto:kotihemant@gmail.com) -->
 
 
 ### Find me on
 
-<p>
-<!--  <a href="https://hemantkoti.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"> </a> -->
- <a href="https://linkedin.com/in/hemantkoti" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align:top; margin:10px"></a>
- <a href="mailto:kotihemant@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="30" style="vertical-align:top; margin:10px"></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hemantkoti/)](https://www.linkedin.com/in/hemantkoti/) [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kotihemant@gmail.com)](mailto:kotihemant@gmail.com)
 
+
+<!-- <p>
+<!--  <a href="https://hemantkoti.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"> </a> -->
+<!--  <a href="https://linkedin.com/in/hemantkoti" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align:top; margin:10px"></a>
+ <a href="mailto:kotihemant@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="30" style="vertical-align:top; margin:10px"></a> -->
+<!-- </p> -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HemantKoti&show_icons=true)
