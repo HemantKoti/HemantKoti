@@ -6,8 +6,6 @@ My expertise includes building large-scale enterprise software using best practi
 
 Above all, I’m a highly enthusiastic and conscientious programmer who loves to learn new stuff. I believe in constant learning, problem-solving and developing code that solves real-world problems. <br>
 
-I am proactively seeking full-time positions starting June 2021.
-
 - 🔭 I’m currently working on [WebAssembly](https://github.com/HemantKoti/CSE-410-510.git), [Visual Welcome Center](https://github.com/HemantKoti/Visual-Welcome-Center.git), [OpenMined](https://github.com/OpenMined/SyferText.git)
 - 🌱 I’m currently learning Deep Learning with a keen interest in applications of Autoencoders and GANs
 - 👯 I’m looking to collaborate on anything fascinating :)
