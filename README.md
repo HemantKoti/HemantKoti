@@ -1,8 +1,8 @@
 ### Hello World 👋
 
-I am a graduate student at the University at Buffalo, pursuing Masters in Computer Science and Engineering. Previously, I worked in the tech industry for over 3.5 years ([Unisys](https://www.unisys.com/)) on several enterprise-grade products ranging across different teams ([ClearPath ePortal](https://www.unisys.com/offerings/clearpath-forward/brochure/the-unisys-clearpath-forward-eportal-for-mcp-and-os-2200-environments-id-544), [Stealth](https://stealthsecurity.unisys.com/products-services/)). <br>
+I am a software engineer at Salesforce. Previously, I was a graduate student at the University at Buffalo, pursuing Masters in Computer Science and Engineering. I worked in the tech industry for over 3.5 years ([Unisys](https://www.unisys.com/)) on several enterprise-grade products ranging across different teams ([ClearPath ePortal](https://www.unisys.com/offerings/clearpath-forward/brochure/the-unisys-clearpath-forward-eportal-for-mcp-and-os-2200-environments-id-544), [Stealth](https://stealthsecurity.unisys.com/products-services/)). <br>
 
-My expertise includes building large-scale enterprise software using best practices and engineering principles in a modern, well-structured process. Additionally, I possess extensive knowledge of the software development cycle as well as proficiency in several programming languages and frameworks including but not limited to - C#.NET, Asp.NET Core, Angular, TypeScript, C++, Python, PyTorch. <br>
+My expertise includes building large-scale enterprise software using best practices and engineering principles in a modern, well-structured process. Additionally, I possess extensive knowledge of the software development cycle as well as proficiency in several programming languages and frameworks including but not limited to - Java, CRM, C#.NET, Asp.NET Core, Angular, TypeScript, C++, Python, PyTorch. <br>
 
 Above all, I’m a highly enthusiastic and conscientious programmer who loves to learn new stuff. I believe in constant learning, problem-solving and developing code that solves real-world problems. <br>
 
@@ -11,7 +11,7 @@ Above all, I’m a highly enthusiastic and conscientious programmer who loves to
 - 👯 I’m looking to collaborate on anything fascinating :)
 - 🤔 I’m looking for help with understanding fundamentals of Quantum Computing. 
 - 💬 Ask me about anything :) 
-
+- Update: All of this was an year ago. TBH I am just slacking off now :P Mostly focusing on work out, sports, personality development and finance.
 
 
 ### Find me on
