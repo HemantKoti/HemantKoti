@@ -11,7 +11,7 @@ Above all, I’m a highly enthusiastic and conscientious programmer who loves to
 - 👯 I’m looking to collaborate on anything fascinating :)
 - 🤔 I’m looking for help with understanding fundamentals of Quantum Computing. 
 - 💬 Ask me about anything :) 
-- Update: All of this was an year ago. TBH I am just slacking off now :P Mostly focusing on work out, sports, personality development and finance.
+- 👋 **Update**: All of this was an year ago. TBH I am just slacking off now 😛 Mostly focusing on workout, sports, personality development and finance.
 
 
 ### Find me on
