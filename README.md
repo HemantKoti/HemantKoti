@@ -1,15 +1,15 @@
 ### Hello World 👋
 
-I am a software engineer at Salesforce. Previously, I was a graduate student at the University at Buffalo, pursuing Masters in Computer Science and Engineering. I worked in the tech industry for over 3.5 years ([Unisys](https://www.unisys.com/)) on several enterprise-grade products ranging across different teams ([ClearPath ePortal](https://www.unisys.com/offerings/clearpath-forward/brochure/the-unisys-clearpath-forward-eportal-for-mcp-and-os-2200-environments-id-544), [Stealth](https://stealthsecurity.unisys.com/products-services/)). <br>
+I am a senior software engineer at Salesforce. Previously, I was a graduate student at the University at Buffalo, pursuing a Masters in Computer Science and Engineering. I have been working in the tech industry for over 7 years on several enterprise-grade products ranging across different teams.<br>
 
-My expertise includes building large-scale enterprise software using best practices and engineering principles in a modern, well-structured process. Additionally, I possess extensive knowledge of the software development cycle as well as proficiency in several programming languages and frameworks including but not limited to - Java, CRM, C#.NET, Asp.NET Core, Angular, TypeScript, C++, Python, PyTorch. <br>
+My expertise includes building large-scale enterprise software using best practices and engineering principles in a modern, well-structured process. Additionally, I possess extensive knowledge of the software development cycle as well as proficiency in several programming languages and frameworks including but not limited to - Java, CRM, C#.NET, Asp.NET Core, Angular, TypeScript, C++, Python, and PyTorch. <br>
 
-Above all, I’m a highly enthusiastic and conscientious programmer who loves to learn new stuff. I believe in constant learning, problem-solving and developing code that solves real-world problems. <br>
+Above all, I’m a highly enthusiastic and conscientious programmer who loves to learn new stuff. I believe in constant learning, problem-solving, and developing code that solves real-world problems. <br>
 
 - 🔭 I’m currently working on [WebAssembly](https://github.com/HemantKoti/CSE-410-510.git), [Visual Welcome Center](https://github.com/HemantKoti/Visual-Welcome-Center.git), [OpenMined](https://github.com/OpenMined/SyferText.git)
-- 🌱 I’m currently learning Deep Learning with a keen interest in applications of Autoencoders and GANs
+- 🌱 I’m currently learning Salesforce CRM platform, Generative AI
 - 👯 I’m looking to collaborate on anything fascinating :)
-- 🤔 I’m looking for help with understanding fundamentals of Quantum Computing. 
+- 🤔 I’m looking for help with understanding the fundamentals of Quantum Computing. 
 - 💬 Ask me about anything :) 
 
 
